@@ -4,9 +4,13 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     backports (3.21.0)
 >>>>>>> 0a1dff2c1f11650cea0b6cbbe0a93254952c8adb
+=======
+    backports (3.21.0)
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
@@ -34,12 +38,18 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     jekyll-admin (0.11.0)
       jekyll (>= 3.7, < 5.0)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+<<<<<<< HEAD
 >>>>>>> 0a1dff2c1f11650cea0b6cbbe0a93254952c8adb
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -62,10 +72,13 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
 <<<<<<< HEAD
+<<<<<<< HEAD
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
 =======
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     multi_json (1.15.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -75,7 +88,10 @@ GEM
       rack
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+<<<<<<< HEAD
 >>>>>>> 0a1dff2c1f11650cea0b6cbbe0a93254952c8adb
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -85,10 +101,13 @@ GEM
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
 <<<<<<< HEAD
+<<<<<<< HEAD
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
 =======
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     sinatra (1.4.8)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -104,7 +123,10 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
+<<<<<<< HEAD
 >>>>>>> 0a1dff2c1f11650cea0b6cbbe0a93254952c8adb
+=======
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
     tzinfo-data (1.2021.1)
@@ -119,9 +141,13 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   jekyll-admin
 >>>>>>> 0a1dff2c1f11650cea0b6cbbe0a93254952c8adb
+=======
+  jekyll-admin
+>>>>>>> feae8effea4c90157b0504c88f60a2cbf962a9c6
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
